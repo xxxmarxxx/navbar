@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 // import Sidebar from './Sidebar'
-// lesson 135/136/137/138
+// lesson 135/136/137/138/139
 function App() {
   return (
     <>
@@ -9,7 +9,7 @@ function App() {
 
       {/* // mozna usunac bo byl tylo pokaz */}
       {/* <Sidebar /> */}
-      
+
     </>
   )
 }

@@ -1,10 +1,12 @@
 import React from 'react'
 import Navbar from './Navbar'
-// lesson 135/136
+import Sidebar from './Sidebar'
+// lesson 135/136/137
 function App() {
   return (
     <>
       <Navbar />
+      <Sidebar />
     </>
   )
 }
